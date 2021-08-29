@@ -1,69 +1,119 @@
-# Partner Compatibility Test
+# Partner compatibility test
 
-## Version History
+## Version history
 
 - v1.0 - Initial (Contributed by my friend, A)
+- v2.0 - My version
 
-## Questions
+## Introduction
 
-1. List your priorities (e.g. Career, self, family, friends,
-   partner/husband/wife, children, sex, religion/God
-2. Compare your priorities with hers to see if they match
-3. Discuss whether their priorities would always remain the same forever or
-   would they change. Discuss what would cause it to change.
-4. Compare each other’s love languages
-5. Compare your Myers–Briggs Type Indicator
-6. Could compare your horoscopes if you’re into that and believe in that
-7. Question her mentality - e.g Positive mind set/outlook of the world, never
-   give up attitude, knows the grass is not always greener on the other
-   side/being grateful and happy for what she has, stands strong in the face of
-   adversity
-8. Give her a scenario where you had a disagreement with her parents or her
-   parents had a disagreement with you. How would she manage that role? How
-   would you manage the role if she had a disagreement with your family? Who’s
-   side would either of you chose?
-9. Test that you’re both willing to compromise and that you feel equal in the
-   relationship.
-10. Can discuss finance, loans and what you’re getting yourself into in terms of
-    contribution. Being clear and honest is the best approach. Contributing
-    doesn’t have to be financial.
-11. Discuss shared interests, hobbies, 5 year plan
-12. Be open about physical health issues, allergies
-13. Which is more important to you trust or loyalty? Why?
-14. Assessing morals (for me a good set of morals is important, adds to
-    reliability and trust) e.g caring, selfless, kind, God fearing, loyal,
-    faithful, honest, truthful, trustworthy
-15. Independent, someone who can come up with solutions to problems, good
-    communication skills, empathetic and open minded
-16. Important to discuss sex and what you’d like to explore in the bedroom. Can
-    discuss history, past relationships etc.
-17. Important to talk about your future, who’s working/your roles, can discuss
-    children etc and more controversial topics e.g what if they chose to be gay
-    etc
-18. Political affiliations e.g far right
-19. Understanding that it’s important not to be influenced and manipulated by
-    others, including friends and family. To ensure a friendship solidifies your
-    relationship and your relationship remains respected. Able to make their own
-    decisions.
-20. Someone composed who’s not going to gossip and be overly dramatic.
-    Especially in public. Knows the value of a time and a place.
-21. Beauty and attractiveness (e.g could be intellectual, could be physical)
-22. Someone who can learn from their mistakes.
-23. Someone who is not ashamed to admit they are wrong.
-24. Someone who’s not ashamed to say sorry and apologise.
-25. What a relationship means to the individual in terms of commitment
-26. What would make them break up a relationship/divorce
-27. Previous relationship history and if they ended their relationships in the
-    past
-28. What do you consider to be cheating? (?Emotional ?physical)
+I used the following list of questions as a starting poitn when trying to decide
+whom to marry. Most of the questions were given to me by a good friend who is
+vastly more experienced with relationships. I customised it to make it my own.
 
-Sadly this is not exhaustive and everyone is different. I think it’s important
-to pick out which qualities you can deal with and which ones you cannot do
-without. We have to keep in mind no ones perfect but maybe some of these will be
-useful to you.
+Some questions you can ask your partner directly. Others you should try to
+answer yourself by observing your partner over some time. This is not an
+exhaustive list, and everyone is different, so you should only use this as an
+inspiration and adapt it according to your needs. Bear in mind that you will
+never find anyone who gives you perfect answers. The key is to understand where
+you can compromise and where you cannot.
 
-I think one of the major things is priorities. In my opinion people change and
-that's because their priorities change. If an individual understands what their
-priorities should be. And remain loyal and fixed to those priorities rather than
-changed to their liking. I think there’s a higher chance that person remains in
-a long lasting relationship with a like minded individual.
+Good luck!
+
+### Priorities
+
+This is the most important section. Having a similar set of priorities will make
+a life together a lot easier.
+
+- [ ] List your priorities (e.g. partner, self, children, career, family,
+      friends, sex, religion/God, money etc.)
+- [ ] Why are your priorities in that order?
+- [ ] Would your priorities always remain the same forever, or could they
+      change? What would cause it to change?
+- [ ] In a scenario where I have a disagreement with your parents or my parents
+      have a disagreement with you, how would you deal with it?
+- [ ] What makes life meaningful for you?
+
+### Health
+
+- [ ] Do you have any health issues that I should be aware of? Physical /
+      mental.
+- [ ] Do you have any allergies?
+- [ ] What are your dietary preferences?
+
+### Mentality
+
+- [ ] How are you at handling setbacks?
+- [ ] How are you at handling grief?
+- [ ] What are the worst experiences you've had in your life? What did you learn
+      from them?
+- [ ] How are you at handling adversity?
+- [ ] What is your mindset? Optimist? Pessimist?
+- [ ] Are you content / grateful for what you have?
+
+### Personality
+
+- [ ] What are your views on religion and God?
+- [ ] What are your political views? Do you like to have discussions about
+      politics?
+- [ ] What's your view on abortion?
+- [ ] What's your
+      [Myers–Briggs Type](https://www.16personalities.com/free-personality-test)?
+      Ideally, do the test together so you can understand each other better.
+- [ ] What's your
+      [love language](https://www.5lovelanguages.com/quizzes/love-language)?
+      Ideally, do the test together so you can understand each other better.
+- [ ] Assess morals e.g. caring, selfless, kind, loyal, faithful, honest,
+      truthful, trustworthy, family values
+- [ ] Assess skills e.g. communication, independence, can adapt to change,
+      problem solving ability, open-mindedness, learn from mistakes, able to
+      admit fault and say sorry, empathetic etc.
+- [ ] What are your interests / hobbies? How much do we have in common?
+- [ ] Are you a morning person or an evening person?
+
+### Relationship with partner
+
+- [ ] Are you willing to compromise?
+- [ ] What diferences do you think there will be between our roles in the
+      relationship? What about equality, 50:50 split?
+- [ ] What are your key expectations of a partner? E.g. moving to my place,
+      love, sex, honesty, support, perosnal space, ambition etc.
+- [ ] Do you have the ability to form your own opinions when we discuss things,
+      without being blindly influenced by friends and family.
+- [ ] Are you going to gossip or be overly dramatic? Especially in public. Do
+      you know the value of a time and a place?
+- [ ] What do you find attractive about me?
+- [ ] Is physical / emotional attraction important to you?
+- [ ] Do you think it's important to make an effort to be attractive for your
+      partner? E.g. keeping health and fit, wearing nice clothes etc. Not
+      necessarily wearing makeup etc.
+- [ ] What would make you want a break-up or divorce? E.g. abuse, cheating.
+- [ ] How would you solve smaller relationship problems? E.g. communication,
+      compromise etc.
+- [ ] What do you consider to be cheating?
+- [ ] What's your relationship history?
+- [ ] Why did previous relationships (if any) not work? What did you learn from
+      them?
+- [ ] What are the strengths and weaknesses that you'll bring to a relationship?
+
+### Finances
+
+- [ ] What's your salary?
+- [ ] What are your savings? How much do you save each month? How do you save?
+- [ ] Do you have a budget?
+- [ ] Do you have any debts? Do your close family have any debts I should be
+      aware of?
+- [ ] Do you expect to support your parents or family memebers financially now
+      or in the future?
+- [ ] How do you prefer to manage money with a partner? Keep things separate but
+      have a joint account for shared expenses? Pool everything together?
+
+### Future
+
+- [ ] Do you expect to pursue your career in the long-term?
+- [ ] What should we do when we have children? Take paternal/maternal leave,
+      take a break from work, have parents look after children?
+- [ ] How many children do you expect to have? When?
+- [ ] What's your five year plan?
+- [ ] What are your dreams?
+- [ ] What are your fears?
