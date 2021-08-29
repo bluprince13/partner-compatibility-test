@@ -7,7 +7,7 @@
 
 ## Introduction
 
-I used the following list of questions as a starting poitn when trying to decide
+I used the following list of questions as a starting point when trying to decide
 whom to marry. Most of the questions were given to me by a good friend who is
 vastly more experienced with relationships. I customised it to make it my own.
 
@@ -63,29 +63,29 @@ a life together a lot easier.
 - [ ] What's your
       [love language](https://www.5lovelanguages.com/quizzes/love-language)?
       Ideally, do the test together so you can understand each other better.
-- [ ] Assess morals e.g. caring, selfless, kind, loyal, faithful, honest,
+- [ ] Assess morals, e.g., caring, selfless, kind, loyal, faithful, honest,
       truthful, trustworthy, family values
-- [ ] Assess skills e.g. communication, independence, can adapt to change,
-      problem solving ability, open-mindedness, learn from mistakes, able to
-      admit fault and say sorry, empathetic etc.
-- [ ] What are your interests / hobbies? How much do we have in common?
+- [ ] Assess skills, e.g., communication, independence, can adapt to change,
+      problem-solving ability, open-mindedness, learn from mistakes, able to
+      admit fault and say sorry, be empathetic etc.
+- [ ] What are your interests/hobbies? How much do we have in common?
 - [ ] Are you a morning person or an evening person?
 
 ### Relationship with partner
 
 - [ ] Are you willing to compromise?
-- [ ] What diferences do you think there will be between our roles in the
+- [ ] What differences do you think there will be between our roles in the
       relationship? What about equality, 50:50 split?
 - [ ] What are your key expectations of a partner? E.g. moving to my place,
-      love, sex, honesty, support, perosnal space, ambition etc.
-- [ ] Do you have the ability to form your own opinions when we discuss things,
+      love, sex, honesty, support, personal space, ambition etc.
+- [ ] Do you have the ability to form your own opinions when we discuss things
       without being blindly influenced by friends and family.
 - [ ] Are you going to gossip or be overly dramatic? Especially in public. Do
       you know the value of a time and a place?
 - [ ] What do you find attractive about me?
-- [ ] Is physical / emotional attraction important to you?
+- [ ] Is physical/emotional attraction important to you?
 - [ ] Do you think it's important to make an effort to be attractive for your
-      partner? E.g. keeping health and fit, wearing nice clothes etc. Not
+      partner? E.g. keeping healthy and fit, wearing nice clothes etc. Not
       necessarily wearing makeup etc.
 - [ ] What would make you want a break-up or divorce? E.g. abuse, cheating.
 - [ ] How would you solve smaller relationship problems? E.g. communication,
@@ -103,17 +103,17 @@ a life together a lot easier.
 - [ ] Do you have a budget?
 - [ ] Do you have any debts? Do your close family have any debts I should be
       aware of?
-- [ ] Do you expect to support your parents or family memebers financially now
+- [ ] Do you expect to support your parents or family members financially now
       or in the future?
 - [ ] How do you prefer to manage money with a partner? Keep things separate but
       have a joint account for shared expenses? Pool everything together?
 
 ### Future
 
-- [ ] Do you expect to pursue your career in the long-term?
+- [ ] Do you expect to pursue your career in the long term?
 - [ ] What should we do when we have children? Take paternal/maternal leave,
       take a break from work, have parents look after children?
 - [ ] How many children do you expect to have? When?
-- [ ] What's your five year plan?
+- [ ] What's your five-year plan?
 - [ ] What are your dreams?
 - [ ] What are your fears?
