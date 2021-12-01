@@ -3,7 +3,7 @@
 ## Version history
 
 - v1.0 - Initial (Contributed by my friend, A)
-- v2.0 - My version
+- v2.0 - Customised by Vipin
 
 ## Introduction
 
